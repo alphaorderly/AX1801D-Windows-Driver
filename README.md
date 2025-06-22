@@ -2,6 +2,6 @@
 
 ### Ripped from CD 
 
-#### Driver from official website does not working with latest WIN11
+#### Driver from official website does not work with latest WIN11
 
 Download from release
